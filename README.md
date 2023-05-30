@@ -1,2 +1,3 @@
-# MatrixSorcerer
-//Matrix Sorcerer sorts matrix rows by their sums, optionally displays row sums and lets users manually input the matrix. //Matrix Sorcerer сортирует строки матрицы по их суммам, при необходимости отображает сумму строк и позволяет пользователям вручную вводить матрицу.
+#//Matrix Sorcerer is a Java programm that generates or takes a user-inputted matrix and sorts it. It asks the user to specify the size of the matrix, then whether to input the matrix manually or have it generated. #Next, it asks whether to display the sum of each row and the sort order of the matrix. After sorting, it displays the sorted matrix, ensuring the sum of elements in the rows follows the specified order.
+#.
+#//Matrix Sorcerer - это программа на Java, которое создает или принимает матрицу, введенную пользователем, и сортирует ее. Оно спрашивает у пользователя указать размер матрицы, затем вводить матрицу вручную или #создавать ее автоматически. Затем он спрашивает, следует ли отображать сумму каждой строки и порядок сортировки матрицы. После сортировки он отображает отсортированную матрицу, обеспечивая соблюдение указанного #порядка сумм элементов в строках.
